@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.backImg {
+    height: 400px;
+    width: 50%;
+    border: 2px solid;
+    background: url('../Images/nav.jpg') no-repeat center;
+}
+
+#container {
+    height: fit-content;
+    width: 50%;
+    border: 2px solid;
+    margin: 10px;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px solid black;
+    margin: 10px;
+    font-size: 4em;
+    color: aliceblue;
+
+}
